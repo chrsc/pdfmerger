@@ -1,0 +1,10 @@
+{
+	"name": "pdfmerger",
+	"version": "1.1.0",
+	"private": false,
+	"description": "PDFMerger update to use more recent libraries",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chrsc/pdfmerger.git"
+	}
+}
